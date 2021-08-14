@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmKowdz,
-- 👀 I’m interested in blockchain, machine learning, web development and graphic designing.
+- 👀 I’m interested in blockchain, machine learning, web development, ui/ux and graphic designing.
 - 🌱 I’m currently learning about building a blockchain application using hyperledger sawtooth.
 - 💞️ I’m looking for someone whom I can collaborate with on a machine learning project.
 
